@@ -130,6 +130,6 @@ aaaaaaaa
 aaaaaaaa
 
 
-[aaaa](#啊啊啊啊aa (aaaaa))】
+[aaaa](#啊啊啊啊aa (aaaaa))
 [aaa](#中文)
 
