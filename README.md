@@ -1,11 +1,7 @@
 [TOC]
 
 # 啊啊啊啊aa (aaaaa)
-
-
-aaaaaaaa
-
-
+# 中文
 
 aaaaaaaa
 
@@ -130,6 +126,10 @@ aaaaaaaa
 aaaaaaaa
 
 
-[aaaa](#啊啊啊啊aa (aaaaa))
 
+aaaaaaaa
+
+
+[aaaa](#啊啊啊啊aa (aaaaa))】
+[aaa](#中文)
 
